@@ -1,0 +1,67 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: hayal land page.pdf
+Color Mode: CMYK color
+Color Profile: none
+Ruler Units: points
+Artboard Dimensions: 1639.5861 pt x 4756.1777 pt
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Calisto MT (OTF)
+Californian FB (OTF)
+Gyahegi Personal Use (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+
+C:\Users\hp\Downloads\hayal land page_Folder\Links\7a85272f-522b-41b7-9411-2d0e5060d804.jfif
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1255K, 564 by 760 pixels
+Dimensions: 658.761 by 887.692 points 
+Resolution: 61.643 by 61.643 pixels per inch
+
+
+C:\Users\hp\Downloads\hayal land page_Folder\Links\Still Life Photographers _ Product Photography London _ Lux.jfif
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1847K, 736 by 857 pixels
+Dimensions: 736 by 857 points 
+Resolution: 72 by 72 pixels per inch
+
+
+C:\Users\hp\Downloads\hayal land page_Folder\Links\pexels-pixabay-264950.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 70312K, 4000 by 6000 pixels
+Dimensions: 494.584 by 741.876 points 
+Resolution: 582.308 by 582.308 pixels per inch
+
+
+-----------------------------------------------------------------------------
+Linked Images:
+NONE
